@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class quadratic {
     public static void main(String args[])
